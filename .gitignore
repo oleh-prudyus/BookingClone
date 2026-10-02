@@ -41,3 +41,7 @@ desktop.ini
 !.vscode/launch.json
 !.vscode/tasks.json
 .claude/
+
+# Local-only files: presentation videos (too large for GitHub) and test account credentials
+presentation/*.mp4
+TEST_ACCOUNTS.md
